@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Caliente
 
 <!--
 **lightningfast707/lightningfast707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![lightningfast's Most Used Languages](https://github-readme-stats-three-beta-50.vercel.app/api/top-langs/?username=lightningfast707&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
