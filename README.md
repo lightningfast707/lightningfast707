@@ -5,4 +5,4 @@
 - 📫 How to reach me: Github
 - 😄 Pronouns: He/Him
 
-![lightningfast's Most Used Languages](https://github-readme-stats-three-beta-50.vercel.app/api/top-langs/?username=lightningfast707&theme=jolly&show_icons=true&hide_border=true&layout=compact)
+
